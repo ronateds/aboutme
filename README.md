@@ -1,6 +1,4 @@
-### Hi there, I'm Ronate - I'm creating a way for every gamer to easily play tournaments and have a chance to win prizes every day, visit my website [macegames]
-
-[website]: https://macegames.com
+### Hi there, I'm Ronate - I'm creating a way for every gamer to easily play tournaments and have a chance to win prizes every day, visit my website [website]
 
 ### Connect with me:
 
@@ -23,7 +21,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Unity Engine" width="26px" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/aboutwindow.mainheader.png" />][webdevplaylist]
+[<img align="left" alt="Unity Engine" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" />][webdevplaylist]
 [<img align="left" alt="AWS Services" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />][webdevplaylist]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png" />][webdevplaylist]
@@ -38,4 +36,5 @@
 
 ---
 
+[website]: https://macegames.com
 [webdevplaylist]: https://github.com/ronateds
