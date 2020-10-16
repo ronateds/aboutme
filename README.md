@@ -15,3 +15,7 @@
 [youtube]: https://www.youtube.com/channel/UCiqnEqbYkpHE2Fya_R7HYJg?view_as=subscriber
 [instagram]: https://instagram.com/ronateds
 [linkedin]: https://www.linkedin.com/in/ronate/
+
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronateds)](https://github.com/anuraghazra/github-readme-stats)
