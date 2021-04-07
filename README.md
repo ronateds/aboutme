@@ -20,7 +20,7 @@
 [<img align="left" alt="Unity Engine" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" />][webdevplaylist]
 [<img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" />][webdevplaylist]
-[<img align="left" alt="Node" width="26px" src="hhttps://img.icons8.com/color/452/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Node" width="26px" src="https://img.icons8.com/color/452/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][webdevplaylist]
 [<img align="left" alt="NextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />][webdevplaylist]
 [<img align="left" alt="AWS Services" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />][webdevplaylist]
