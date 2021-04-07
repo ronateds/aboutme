@@ -3,15 +3,11 @@
 ### Connect with me:
 
 [<img align="left" alt="ronate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ronate | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ronate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ronate | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 [website]: https://macegames.com
-[youtube]: https://www.youtube.com/channel/UCiqnEqbYkpHE2Fya_R7HYJg?view_as=subscriber
-[instagram]: https://instagram.com/ronateds
 [linkedin]: https://www.linkedin.com/in/ronate/
 
 <br />
@@ -23,6 +19,10 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Unity Engine" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" />][webdevplaylist]
+[<img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" />][webdevplaylist]
+[<img align="left" alt="Node" width="26px" src="hhttps://img.icons8.com/color/452/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][webdevplaylist]
+[<img align="left" alt="NextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />][webdevplaylist]
 [<img align="left" alt="AWS Services" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />][webdevplaylist]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
