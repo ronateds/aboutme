@@ -3,7 +3,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="ronate | LinkedIn" width="22px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />][linkedin]
+[<img align="left" alt="ronate | LinkedIn" width="44px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />][linkedin]
 
 <br />
 
