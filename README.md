@@ -1,4 +1,4 @@
-### Hi there, I'm Ronate - I'm creating a way for every gamer to easily play tournaments and have a chance to win prizes every day, visit my [website]
+### Hi there, I'm Ronate - I'm creating a way for every gamer to easily play tournaments and have a chance to win prizes every day, visit [Mace Games]
 
 ### Connect with me:
 
@@ -7,7 +7,7 @@
 
 <br />
 
-[website]: https://macegames.com
+[Mace Games]: https://macegames.com
 [linkedin]: https://www.linkedin.com/in/ronate/
 
 <br />
