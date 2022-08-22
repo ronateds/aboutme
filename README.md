@@ -1,5 +1,3 @@
-### Hi there, I'm Ronate - I'm creating a way for every gamer to easily play tournaments and have a chance to win prizes every day, visit [Mace Games]
-
 ### Connect with me:
 
 <!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
