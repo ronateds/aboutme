@@ -25,7 +25,7 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" />][webdevplaylist]
 
 [<img align="left" alt="Vim logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />][webdevplaylist]
-[<img align="left" alt="Arch Linux logo" width="26px" src="https://toppng.com/uploads/preview/arch-linux-logo-arch-linux-11562915682mxfu99tp6t.png" />][webdevplaylist]
+[<img align="left" alt="Arch Linux logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" />][webdevplaylist]
 
 <br />
 <br />
