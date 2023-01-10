@@ -2,12 +2,13 @@
 
 <!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="ronate | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="ronate | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 
 <br />
 
 <!-- [Mace Games]: https://macegames.com -->
 [linkedin]: https://www.linkedin.com/in/ronate/
-
+[stackoverflow]: https://stackoverflow.com/users/14379839/ronate
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronateds&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
