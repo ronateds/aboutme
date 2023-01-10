@@ -16,12 +16,12 @@
 
 [<img align="left" alt="Typescript logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][webdevplaylist]
 [<img align="left" alt="Node logo" width="26px" src="https://img.icons8.com/color/452/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="React logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][webdevplaylist]
+[<img align="left" alt="React logo" width="26px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />][webdevplaylist]
 [<img align="left" alt="Next.js logo" width="26px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][webdevplaylist]
 
 [<img align="left" alt="AWS Services" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />][webdevplaylist]
 
-[<img align="left" alt="Unity Engine" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />][webdevplaylist]
+[<img align="left" alt="Unity Engine" width="26px" src="https://e7.pngegg.com/pngimages/911/748/png-clipart-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" />][webdevplaylist]
 
 [<img align="left" alt="Vim logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />][webdevplaylist]
