@@ -21,7 +21,7 @@
 
 [<img align="left" alt="AWS Services" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />][webdevplaylist]
 
-[<img align="left" alt="Unity Engine" width="26px" src="https://e7.pngegg.com/pngimages/911/748/png-clipart-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics.png" />][webdevplaylist]
+[<img align="left" alt="Unity Engine" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" />][webdevplaylist]
 
 [<img align="left" alt="Vim logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />][webdevplaylist]
