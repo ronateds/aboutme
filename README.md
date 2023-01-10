@@ -5,7 +5,7 @@
 
 <br />
 
-# [Mace Games]: https://macegames.com
+<!-- [Mace Games]: https://macegames.com -->
 [linkedin]: https://www.linkedin.com/in/ronate/
 
 <br />
@@ -17,7 +17,7 @@
 [<img align="left" alt="Typescript logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][webdevplaylist]
 [<img align="left" alt="Node logo" width="26px" src="https://img.icons8.com/color/452/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="React logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][webdevplaylist]
-[<img align="left" alt="Next.js logo" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />][webdevplaylist]
+[<img align="left" alt="Next.js logo" width="26px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][webdevplaylist]
 
 [<img align="left" alt="AWS Services" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" />][webdevplaylist]
 
