@@ -11,7 +11,7 @@
 [stackoverflow]: https://stackoverflow.com/users/14379839/ronate
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronateds&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronateds&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
